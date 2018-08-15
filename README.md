@@ -1,2 +1,2 @@
 # scuttlespace-service-feed
-Feed Module for ScuttleSpace
+Feed Module for Scuttlespace
